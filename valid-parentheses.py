@@ -6,7 +6,7 @@ class Solution(object):
         Valid, meaning that each opening parenthesis has a matching closing parenthesis
         and that parenthesis are closed in order
 
-        Psuedocode:
+        Pseudocode:
         Create a stack to hold seen parenthesis
         Create a hash map to map the closing parenthesis to the opening one
 

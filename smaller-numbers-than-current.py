@@ -6,7 +6,7 @@ class Solution(object):
         Input: nums = [8,1,2,2,3]
         Output: [4,0,1,1,3]
 
-        Psuedocode (brute force):
+        Pseudocode (brute force):
         Create a dictionary to map the current index to the number of occurrences found for that index
         
         Loop over the numbers in input "nums"
